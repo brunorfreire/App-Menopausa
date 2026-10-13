@@ -1,0 +1,6 @@
+{
+  "name": "Guia 7 Passos - Menopausa e Movimento",
+  "description": "Assistente virtual e guia prático dos 7 Passos para preservar a força, saúde óssea e qualidade de vida na menopausa pelo Personal Trainer Bruno Freire.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
